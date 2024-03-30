@@ -1,5 +1,5 @@
-import './style.css'
-import sketch from './sketch'
+import './style/style.css'
+import sketch from './script/sketch'
 
 document.querySelector('#app').innerHTML = `
   <div>
